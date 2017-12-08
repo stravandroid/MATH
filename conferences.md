@@ -15,7 +15,7 @@ Organisers:
 
 ---
 
-####"Graphes, groupes et dynamique"
+#### "Graphes, groupes et dynamique"
 
 septembre 2017-février 2018
 
@@ -26,7 +26,7 @@ semestre thématique du Labex Milyon.
 http://milyon.universite-lyon.fr/recherche/semestres-et-mois-thematiques/2017-2/groupes-graphes-et-dynamique/)
 
 --------------------------------------------------------------
-###No Boundaries: Groups in Algebra, Geometry, and Topology
+### No Boundaries: Groups in Algebra, Geometry, and Topology
  octobre  27-29, 2017
 
 A Celebration of the Mathematical Contributions of Benson Farb
@@ -202,7 +202,7 @@ Alessandro Sisto.
 --------------------------------------------------------------
 3-6 Avril 2018
 
-####Topological and Homological Methods in Group Theory 2018
+#### Topological and Homological Methods in Group Theory 2018
 
 Bielefeld, Germany
 
@@ -215,7 +215,7 @@ https://www.math.uni-bielefeld.de/agbux/thgt18/)
 --------------------------------------------------------------
 Avril ou Mai 2018
 
-####Ecole de Printemps
+#### Ecole de Printemps
 
 Dakar, Sénegal
 
@@ -225,7 +225,7 @@ riemannnienne, sur les groupes hyperboliques et sur les graphes"
 --------------------------------------------------------------
 May 23-29, 2018
 
-####"Nonpositively Curved Groups on the Mediterranean"
+#### "Nonpositively Curved Groups on the Mediterranean"
 
 Nahsholim, Israel
 
@@ -237,7 +237,7 @@ Organizers:
 --------------------------------------------------------------
 18-22 juin, 2018 :
 
-####"Workshop on Thermodynamical Formalism in Dynamical Systems"
+#### "Workshop on Thermodynamical Formalism in Dynamical Systems"
 
 Edinburgh, UK
 
