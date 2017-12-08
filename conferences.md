@@ -1,8 +1,8 @@
+2017-18
+
 #### Warwick EPSRC Symposium on Geometry, Topology and Dynamics in Low Dimensions
 
 University of Warwick (England)
-
-2017-18
 
 Organisers:
 - Brian Bowditch
@@ -14,10 +14,9 @@ Organisers:
 [web page](https://www2.warwick.ac.uk/fac/sci/maths/research/events/2017-18/symposium/)
 
 ---
+septembre 2017-février 2018
 
 #### "Graphes, groupes et dynamique"
-
-septembre 2017-février 2018
 
 semestre thématique du Labex Milyon.
 
@@ -26,8 +25,9 @@ semestre thématique du Labex Milyon.
 http://milyon.universite-lyon.fr/recherche/semestres-et-mois-thematiques/2017-2/groupes-graphes-et-dynamique/)
 
 --------------------------------------------------------------
-### No Boundaries: Groups in Algebra, Geometry, and Topology
  octobre  27-29, 2017
+ 
+### No Boundaries: Groups in Algebra, Geometry, and Topology
 
 A Celebration of the Mathematical Contributions of Benson Farb
 University of Chicago
@@ -36,9 +36,9 @@ University of Chicago
 http://noboundaries.uchicago.edu)
 
 ---
-### "Advanced School on Geometry, Group and Dynamics"
-
 6-24 Nov 2017
+
+### "Advanced School on Geometry, Group and Dynamics"
 
 Tata Institute of Fundamental Research ; International Center
 for Theoretical Sciences, Bangalore (India).
@@ -53,20 +53,19 @@ Organisateurs:
 https://www.icts.res.in/program/ggd2017)
 
 ---------------------------------------------------------------
+24–25 novembre 2017
 
 #### Journée de Géométrie & Topologie Rhone-Alpes
 “Variétés de dimension 3”
-
-24–25 novembre 2017
 
 ENS Lyon
 
 Contact et inscription : jerome.dubois@uca.fr
 
 -----------------------------------------------------------------
-#### Groups in Madrid
-
 30 November - 1 December 2017.
+
+#### Groups in Madrid
 
 Instituto de Ciencias Matemáticas, UAM, Madrid
 
@@ -80,9 +79,9 @@ http://verso.mat.uam.es/%7Eyago.antolin/groupsinmadrid/main.html)
 
 
 ---------------------------------------------------
-### "Dynamiques affine et unidimensionnelle",
+4-8 Dec 2017
 
-4-8 Dec 2017:
+### "Dynamiques affine et unidimensionnelle",
 
  Aussois, France
  
@@ -168,7 +167,7 @@ https://www-fourier.ujf-grenoble.fr/~mcshane/TEXTS/annonce.pdf)
 -----------------------------------------------------------------
 26 février-2 mars
 
-####JEAN-MORLET CONFERENCE "Structures des groupes de 3-variétés"
+#### JEAN-MORLET CONFERENCE "Structures des groupes de 3-variétés"
 
 Organizers:
 - Peter Haïssinsky
