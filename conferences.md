@@ -234,6 +234,18 @@ Organizers:
 [web](http://cms-math.net.technion.ac.il/nonpositively-curved-groups-on-the-mediterranean/)
 
 --------------------------------------------------------------
+
+12 au 14 juin 2018.
+
+#### "Systèmes dynamiques et systèmes complexes"
+
+Parc Valrose (Nice) 
+
+Conférence, organisée à l'occasion des 60 ans de Jean-Marc Gambaudo.
+
+https://jmgambaudo60.sciencesconf.org/
+
+--------------------------------------------------------------
 18-22 juin, 2018 :
 
 #### "Workshop on Thermodynamical Formalism in Dynamical Systems"
@@ -244,3 +256,38 @@ Organisers:
 - Jordan Thomas, Sarig Omri, Thompson Dan, Todd Mike.
 
 [web](http://www.icms.org.uk/workshop.php?id=462)
+
+
+--------
+
+2 September - 8 September 2018
+
+### New Trends in Teichmüller Theory and Mapping Class Groups
+
+Oberwolfach Workshop           
+
+Organizers: 
+- Ken'ichi Ohshika, Osaka
+- Athanase Papadopoulos, Strasbourg
+- Robert C. Penner, Bures-sur-Yvette
+- Anna Wienhard, Heidelberg
+                   
+----
+
+13-15 Septembre 2018
+
+#### 102e rencontre entre mathematiciens et physiciens theoriciens
+
+IRMA, Strasbourg
+
+The 102th Encounter between Mathematicians and Theoretical Physicists will
+take place at Institut de Recherche Mathematique Avance (University of
+Strasbourg and CNRS) on September 13-15, 2018. The theme will be :
+Combinatorics, topology, and biology.
+
+The Encounter is dedicated to Bob Penner for his work on the subject.
+
+Organizer : Athanase Papadopoulos (IRMA Strasbourg)
+
+[Website](http://irma.math.unistra.fr/article1650.html)
+
