@@ -236,7 +236,7 @@ Organizers:
 --------------------------------------------------------------
 7-9 juin 2018
 
-101e rencontre entre mathématiciens et physiciens théoriciens
+#### 101e rencontre entre mathématiciens et physiciens théoriciens
 IRMA, 
 
 
@@ -272,7 +272,7 @@ Organisers:
 
 2 September - 8 September 2018
 
-### New Trends in Teichmüller Theory and Mapping Class Groups
+#### New Trends in Teichmüller Theory and Mapping Class Groups
 
 Oberwolfach Workshop           
 
