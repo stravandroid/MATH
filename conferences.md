@@ -162,7 +162,7 @@ Organizers:
 Luisa Paoluzzi.
 
 [web](
-https://www-fourier.ujf-grenoble.fr/~mcshane/TEXTS/annonce.pdf)
+https://conferences.cirm-math.fr/1673.html)
 
 -----------------------------------------------------------------
 26 février-2 mars
