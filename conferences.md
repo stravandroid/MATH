@@ -212,6 +212,17 @@ Organisateurs :
 https://www.math.uni-bielefeld.de/agbux/thgt18/)
 
 --------------------------------------------------------------
+16 au 20 Avril 2018
+
+#### TQFT et catégorification
+
+Ecole à l’IESC Cargèse, 
+
+Organisateurs :
+- Christian Blanchet, Vincent Colin, Mikhail Khovanov, Aaron Lauda, Hoel Queffelec
+
+
+------------------
 Avril ou Mai 2018
 
 #### Ecole de Printemps
