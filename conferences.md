@@ -234,7 +234,17 @@ Organizers:
 [web](http://cms-math.net.technion.ac.il/nonpositively-curved-groups-on-the-mediterranean/)
 
 --------------------------------------------------------------
+7-9 juin 2018
 
+101e rencontre entre mathématiciens et physiciens théoriciens
+IRMA, 
+
+
+The Encounter is dedicated to Vladimir Turaev for his work on the subject.
+
+[website](http://irma.math.unistra.fr/article1650.html)
+
+----
 12 au 14 juin 2018.
 
 #### "Systèmes dynamiques et systèmes complexes"
