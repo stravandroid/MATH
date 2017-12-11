@@ -299,5 +299,5 @@ The Encounter is dedicated to Bob Penner for his work on the subject.
 
 Organizer : Athanase Papadopoulos (IRMA Strasbourg)
 
-[Website](http://irma.math.unistra.fr/article1650.html)
+[Website](http://irma.math.unistra.fr/article1651.html)
 
