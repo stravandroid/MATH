@@ -278,6 +278,21 @@ Organisers:
 
 [web](http://www.icms.org.uk/workshop.php?id=462)
 
+---
+
+23rd to the 27th of July 2018.
+
+
+#### "Braid groups, configuration spaces and homotopy theory" 
+
+ICM2018 Satellite Conference  Salvador de Bahia, Brazil.
+
+Organisers:
+- Daciberg Gonçalves
+- John Guaschi
+- Oscar Ocampo.
+
+[web](https://braids2018.ufba.br)
 
 --------
 
