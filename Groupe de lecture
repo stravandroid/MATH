@@ -1,0 +1,18 @@
+# Mostly surfaces 
+
+https://www.math.brown.edu/~res/Papers/surfacebook.pdf
+
+
+Quand on joue au billard, on cherche à savoir où va la boule. En première 
+approximation, les lois de la réflexion semblables à celles de la lumière 
+s'appliquent. L'étude du mouvement de la boule, et en particulier des points 
+où elles va frapper le bord du billard, est alors un exemple particulièrement 
+simple de "système dynamique". 
+
+En variant la forme du billard (rectangle, cercle, ellipse, courbe plus compliquée), 
+on obtient de nombreux exemples de systèmes dynamiques, allant des plus 
+simples aux plus mystérieux. 
+
+Dans ce groupe, on suivra principalement le livre "Geometry and Billiards", 
+de Sergey Tabashnikov. Il s'agit donc d'une introduction guidée à la théorie 
+des systèmes dynamiques, qui permet en particulier de jolis à-côtés géométriques. 
