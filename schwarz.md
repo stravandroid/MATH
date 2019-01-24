@@ -94,7 +94,8 @@ Sophiane
 
 A priori this is easy but you should explain:
 
-- the classification of surfaces
+- the classification of surfaces 
+( see this [page](http://analysis-situs.math.cnrs.fr/Classification-des-surfaces-triangulees-par-reduction-a-une-forme-normale.html))
 - why Euler characteristic is a topological invariant
 
 There are examples of gluing (recollement) on this 
