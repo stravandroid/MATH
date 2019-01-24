@@ -113,7 +113,6 @@ Quite hard need the idea of homotopy
 4. Functoriality . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
 4. Some First Steps . . . . . . . . . . . . . . . . . . . . . . . . . 52
 
----
 
 # 5 Examples of Fundamental Groups 
 
