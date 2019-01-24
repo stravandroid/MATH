@@ -97,6 +97,9 @@ A priori this is easy but you should explain:
 - the classification of surfaces
 - why Euler characteristic is a topological invariant
 
+There are examples of gluing (recollement) on this 
+[page](http://analysis-situs.math.cnrs.fr/-Recollements-du-cube-.html).
+
 
 ---
 
@@ -128,6 +131,9 @@ Easier but still a lot of ideas.
 5. The Projective Plane . . . . . . . . . . . . . . . . . . . . . . . 59
 5. A Lens Space . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
 5. The Poincaré Homology Sphere . . . . . . . . . . . . . . . . . 62
+
+
+See this [page](http://analysis-situs.math.cnrs.fr/Definition-comme-recollement-du-dodecaedre-et-premieres-proprietes.html)
 
 ---
 
