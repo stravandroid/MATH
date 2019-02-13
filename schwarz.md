@@ -11,8 +11,9 @@ Nathaniel will speak the first week.
 | Nathaniel | 30/1| 13 & 14 Cplx Analysis|
 | Theophile | 6/2 | 2 Basic topology|
 | Sophiane | 13/2| 3 Gluing construction |
-| Thomas | ?? | 4 & 5 Fundamental gp |
-|Paul | ??| 6 Covering Spaces &  Deck Group |
+| Thomas | 27/2 | 4 & 5 Fundamental gp |
+|Paul | 6/ 3 | 6 Covering Spaces &  Deck Group / 7 Existence of Universal Covers |
+|Paul | 13/ 3 | 7 Existence of Universal Covers / 16 Riemann Surfaces and Uniformization |
 
 
 
