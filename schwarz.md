@@ -14,7 +14,7 @@ Nathaniel will speak the first week.
 | Thomas | 27/2 | 4 & 5 Fundamental gp |
 |Paul | 6/ 3 | 6 Covering Spaces &  Deck Group / 7 Existence of Universal Covers |
 |Paul | 13/ 3 | 7 Existence of Universal Covers / 16 Riemann Surfaces and Uniformization 
-
+Sophiane
 ----
 
 
@@ -27,12 +27,12 @@ This is my favorite proof http://pi.math.cornell.edu/~hubbard/FisherHubbardWittn
 
 |  | date| section(s)|
 |---|---|---|
-| ** | 20/3 | 10 Hyperbolic Geometry  |
-| ** | 27/3 | 11 Riemannian Metrics on Surfaces |
-| ** | 3/4 | 12 Hyperbolic Surfaces |
-| ** | 10/4  | 18 Translation Surfaces and the Veech Group |
-| ** | 24/ 4 | 19/20 Teichm¨uller Space and Moduli Space |
-|** | ?? |  ?? |
+| Theophile | 20/3 | 11 Riemannian Metrics on Surfaces  |
+| Nathaniel | 27/3 |  10 Geometry hyperbolic |
+| Thomas | 3/4 | 12 Hyperbolic Surfaces |
+| Paul | 10/4  | 18 Translation Surfaces and the Veech Group |
+|  Sophiane | 24/ 4 | 19/20 Teichm¨uller Space and Moduli Space |
+| Paul  | ?? |  ?? |
 
 
 
