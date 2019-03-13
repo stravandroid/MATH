@@ -13,7 +13,17 @@ Nathaniel will speak the first week.
 | Sophiane | 13/2| 3 Gluing construction |
 | Thomas | 27/2 | 4 & 5 Fundamental gp |
 |Paul | 6/ 3 | 6 Covering Spaces &  Deck Group / 7 Existence of Universal Covers |
-|Paul | 13/ 3 | 7 Existence of Universal Covers / 16 Riemann Surfaces and Uniformization |
+|Paul | 13/ 3 | 7 Existence of Universal Covers / 16 Riemann Surfaces and Uniformization 
+
+
+|  | date| section(s)|
+|---|---|---|
+| ** | 20/3 | 10 Hyperbolic Geometry  |
+| ** | 27/3 | 11 Riemannian Metrics on Surfaces |
+| ** | 3/4 | 12 Hyperbolic Surfaces |
+| ** | 10/4  | 18 Translation Surfaces and the Veech Group |
+| ** | 24/ 4 | 19/20 Teichm¨uller Space and Moduli Space |
+|** | ?? |  ?? |
 
 
 
