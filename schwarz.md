@@ -15,6 +15,15 @@ Nathaniel will speak the first week.
 |Paul | 6/ 3 | 6 Covering Spaces &  Deck Group / 7 Existence of Universal Covers |
 |Paul | 13/ 3 | 7 Existence of Universal Covers / 16 Riemann Surfaces and Uniformization 
 
+----
+
+
+## Riemann Mapping Theorem
+
+This is my favorite proof http://pi.math.cornell.edu/~hubbard/FisherHubbardWittner.pdf
+
+----
+
 
 |  | date| section(s)|
 |---|---|---|
