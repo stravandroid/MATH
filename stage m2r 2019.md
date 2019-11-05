@@ -45,7 +45,7 @@ to see why there are no polynomials.
 
 ## References
 
-1 Lengths of geodesics on non-orientable hyperbolic surfaces **Paul Norbury** [Preprint ](https://arxiv.org/abs/math/0612128)
+1. Lengths of geodesics on non-orientable hyperbolic surfaces **Paul Norbury** [Preprint ](https://arxiv.org/abs/math/0612128)
 1. What's wrong with the growth of simple closed geodesics on nonorientable hyperbolic surfaces **Matthieu Gendulphe**
 [Preprint arxiv.org/abs/1705.09377](https://arxiv.org/abs/1705.09377)
 1. Automorphisms of two-generator free groups and spaces of isometric actions on the hyperbolic plane
