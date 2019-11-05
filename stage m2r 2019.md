@@ -14,15 +14,16 @@ and the moduli space itself. One important development has been the discovery of
 Mirzakhani's volume polynomials, the recursion they satisfy and the 
 resulting formulation of so-called [geometric recursion](https://arxiv.org/abs/1711.04729).
 
+![Orientable and non orientable surfaces](https://github.com/macbuse/MATH/blob/master/4surfaces.png)
+
+The Figure show the one holed torus, one holed Klein bottle, two holed projective plane and the three holed sphere.
+
 A [Klein surface](https://en.wikipedia.org/wiki/Klein_surface) is a non orientable topological surface 
 together with a hyperbolic structure. The moduli space 
 of Klein surfaces is much less well understood than that of Riemann surfaces.
 In particular there seems to be no notion of Mirzakhani's polynomials for Klein 
 surfaces nor asymptotic formula for the number of closed simple geodesics.
 
-
-![Orientable and non orientable surfaces](https://github.com/macbuse/MATH/blob/master/4surfaces.png)
-The Figre show the one holed torus, one holed Klein bottle, two holed projective plane and the three holed sphere.
 
 In a [recent manuscript](https://arxiv.org/abs/1706.08798) Gendulphe 
 hakes some calculations and proposes an explanation as to why there can be no 
