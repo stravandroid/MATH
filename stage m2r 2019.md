@@ -10,7 +10,9 @@ The connexion with hyperbolic geometry was recognised by Klein as
 being of great importance and through the work of Thurston, Penner
 and many others at the end of the last century has improved our 
 understanding of the geometry of Teichmueller space, the mapping class group
-and the moduli space itself.
+and the moduli space itself. One important development has been the discovery of
+Mirzakhani's volume polynomials, the recursion they satisfy and the 
+resulting formulation of so-called [geometric recursion](https://arxiv.org/abs/1711.04729).
 
 A [Klein surface](https://en.wikipedia.org/wiki/Klein_surface) is a non orientable topological surface 
 together with a hyperbolic structure. The moduli space 
@@ -20,6 +22,7 @@ surfaces nor asymptotic formula for the number of closed simple geodesics.
 
 
 ![Orientable and non orientable surfaces](https://github.com/macbuse/MATH/blob/master/4surfaces.png)
+The Figre show the one holed torus, one holed Klein bottle, two holed projective plane and the three holed sphere.
 
 In a [recent manuscript](https://arxiv.org/abs/1706.08798) Gendulphe 
 hakes some calculations and proposes an explanation as to why there can be no 
