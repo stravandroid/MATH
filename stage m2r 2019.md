@@ -31,17 +31,20 @@ growth rate is not polynomial.
 
 ## Details of the stage
 
+We will review the basic geometric constructions used in the oriented case
+and see how they have to be modified in the article of PAPADOPOULOS and PENNER.
+Next we will study the character variety for small surfaces as in Goldman, et al.
+Finally we will go through Gendulphe and compare hs results with that of Magee
+to see why there are no polynomials.
 
-If time permits we will discuss
-- possible generalizations to discrete subgroups of Lie group other than PSL(2,C).
-- thin groups 
 
 
 ## References
 
+1 Lengths of geodesics on non-orientable hyperbolic surfaces **Paul Norbury** [Preprint ](https://arxiv.org/abs/math/0612128)
 1. What's wrong with the growth of simple closed geodesics on nonorientable hyperbolic surfaces **Matthieu Gendulphe**
 [Preprint arxiv.org/abs/1705.09377](https://arxiv.org/abs/1705.09377)
-1.  Automorphisms of two-generator free groups and spaces of isometric actions on the hyperbolic plane
+1. Automorphisms of two-generator free groups and spaces of isometric actions on the hyperbolic plane
 **William Goldman, et al.** [Memoirs of the American Mathematical Society 2019](https://arxiv.org/abs/1509.03790).
 1. Counting one sided simple closed geodesics on Fuchsian thrice punctured projective planes **Michael Magee**
 [Preprint 	arXiv:1705.09377](https://arxiv.org/abs/1705.09377)
