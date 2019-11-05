@@ -1,0 +1,50 @@
+# Stage M2R
+
+Greg McShane 2019-2020
+
+
+## Context
+
+The moduli space of Riemann surfaces is a very old and rich subject.
+The connexion with hyperbolic geometry was recognised by Klein as
+being of great importance and through the work of Thurston, Penner
+and many others at the end of the last century has improved our 
+understanding of the geometry of Teichmueller space, the mapping class group
+and the moduli space itself.
+
+A [Klein surface](https://en.wikipedia.org/wiki/Klein_surface) is a non orientable topological surface 
+together with a hyperbolic structure. The moduli space 
+of Klein surfaces is much less well understood than that of Riemann surfaces.
+In particular there seems to be no notion of Mirzakhani's polynomials for Klein 
+surfaces nor asymptotic formula for the number of closed simple geodesics.
+
+
+![gasket](https://upload.wikimedia.org/wikipedia/commons/e/e6/Apollonian_gasket.svg)
+
+In a [recent manuscript](https://arxiv.org/abs/1706.08798) Gendulphe 
+hakes some calculations and proposes an explanation as to why there can be no 
+such polynomials they should not exist. In another [work](https://arxiv.org/abs/1705.09377)
+Magee proves a counting formula for counting one sided simple closed geodesics
+on Fuchsian thrice punctured projective planes showing surprisingly that the 
+growth rate is not polynomial.
+
+
+## Details of the stage
+
+
+If time permits we will discuss
+- possible generalizations to discrete subgroups of Lie group other than PSL(2,C).
+- thin groups 
+
+
+## References
+
+1. What's wrong with the growth of simple closed geodesics on nonorientable hyperbolic surfaces **Matthieu Gendulphe**
+[Preprint arxiv.org/abs/1705.09377](https://arxiv.org/abs/1705.09377)
+1.  Automorphisms of two-generator free groups and spaces of isometric actions on the hyperbolic plane
+**William Goldman, et al.** [Memoirs of the American Mathematical Society 2019](https://arxiv.org/abs/1509.03790).
+1. Counting one sided simple closed geodesics on Fuchsian thrice punctured projective planes **Michael Magee**
+[Preprint 	arXiv:1705.09377](https://arxiv.org/abs/1705.09377)
+1. HYPERBOLIC METRICS, MEASURED FOLIATIONS AND PANTS DECOMPOSITIONS FOR NON-ORIENTABLE SURFACES
+**A. PAPADOPOULOS† AND R. C. PENNER** ASIAN J. MATH. c 2016 International Press
+Vol. 20, No. 1, pp. 157–182, January 2016
