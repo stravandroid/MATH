@@ -19,7 +19,7 @@ In particular there seems to be no notion of Mirzakhani's polynomials for Klein
 surfaces nor asymptotic formula for the number of closed simple geodesics.
 
 
-![gasket](https://upload.wikimedia.org/wikipedia/commons/e/e6/Apollonian_gasket.svg)
+![Orientable and non orientable surfaces](https://github.com/macbuse/MATH/blob/master/4surfaces.png)
 
 In a [recent manuscript](https://arxiv.org/abs/1706.08798) Gendulphe 
 hakes some calculations and proposes an explanation as to why there can be no 
