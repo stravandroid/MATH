@@ -10,6 +10,16 @@ and we will be comparing the two versions when appropriate.
 The theme of both books is the interplay between geometry 
 and number theory.
 
+We will spend 4 weeks on each of the first 3 chapters of Conway:
+
+- Peut-on voir les valeurs d’une  formes quadratiques ?
+- Peut-on entendre la forme d'un réseau?
+- ... et pouvez-vous sentir sa forme?
+
+## References for background reading
+
+(I'll do this tomorrow)
+
 Follow the blue arrows -> for a reference.
 
 
