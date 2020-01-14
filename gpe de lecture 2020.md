@@ -20,7 +20,9 @@ We will spend 4 weeks on each of the first 3 chapters of Conway:
 
 (I'll do this tomorrow)
 
-Follow the blue arrows -> for a reference.
+Follow the blue arrows [->](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+for a reference.
+
 
 
 
