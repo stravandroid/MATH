@@ -21,7 +21,7 @@ We will spend 4 weeks on each of the first 3 chapters of Conway:
 Follow the blue arrows [->](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 for a reference.
 
-**For the Wednesday just read through 
+**For  Wednesday 22/1 just read through 
 [Hatcher's book](https://pi.math.cornell.edu/~hatcher/TN/TNpage.html)**
 
 
