@@ -24,6 +24,26 @@ Follow the blue arrows [->](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Lif
 for a reference.
 
 
+## Can you see the shape of a quadratic form
+
+1. Generalities on quadratic forms (definite, indefinite, integer valued, Pythagorean triples, Diophantine equations etc.)
+2. Farey diagram, SL(2,Z), Poincaré plane/disc (see Hatcher)
+3. Topography I
+4. Topography II
+5. Generalizations: Markoff numbers, Appolonian packings etc.
+
+## Can You Hear the Shape of a Lattice?
+
+1. Generalities on lattices, theta functions
+2. Milnor example, Kneser etc.
+3. Codes etc.
+4. Drums eigenfunction transplantation  Buser, Berrard, Tsunada etc.
 
 
+
+## ... and Can You Feel Its Form?
+
+1. Voronoi cells
+2. Vonorms
+3. Minkowski etc
 
