@@ -25,9 +25,9 @@ for a reference.
 [Hatcher's book](https://pi.math.cornell.edu/~hatcher/TN/TNpage.html)**
 
 
+## Plan for the seminars
 
-
-## Can you see the shape of a quadratic form
+### Can you see the shape of a quadratic form
 
 1. Generalities on quadratic forms (definite, indefinite, integer valued, Pythagorean triples, Diophantine equations etc.)
 2. Farey diagram, SL(2,Z), Poincaré plane/disc (see Hatcher)
@@ -35,7 +35,7 @@ for a reference.
 4. Topography II
 5. Generalizations: Markoff numbers, Appolonian packings etc.
 
-## Can You Hear the Shape of a Lattice?
+### Can You Hear the Shape of a Lattice?
 
 1. Generalities on lattices, theta functions
 2. Milnor example, Kneser etc.
@@ -44,7 +44,7 @@ for a reference.
 
 
 
-## ... and Can You Feel Its Form?
+### ... and Can You Feel Its Form?
 
 1. Voronoi cells
 2. Vonorms
