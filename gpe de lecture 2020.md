@@ -50,3 +50,11 @@ for a reference.
 2. Vonorms
 3. Minkowski etc
 
+
+#exposes
+
+5/2 Victor
+12/2 William
+19/2 Thomas
+     Corentin
+     
