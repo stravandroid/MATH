@@ -61,3 +61,14 @@ date | nom | sujet
  xx  | Vincent  | generalisation
  xx   |  Milan | ??
      
+ # Further reqding
+
+[The Modular Tree Of Pythagoras](http://www.math.sjsu.edu/~alperin/pt.pdf)
+[Arbres, amalgames, SL2](http://www.numdam.org/issue/AST_1983__46__1_0.pdf)
+[Ping pong lemma](https://en.wikipedia.org/wiki/Ping-pong_lemma)
+[Tits alternative](https://en.wikipedia.org/wiki/Tits_alternative)
+
+[Markov numbers](https://en.wikipedia.org/wiki/Markov_number)
+
+
+
