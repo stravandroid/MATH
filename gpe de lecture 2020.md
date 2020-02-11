@@ -50,8 +50,7 @@ for a reference.
 2. Vonorms
 3. Minkowski etc
 
-
-#exposes
+# Exposes
 
 date | nom | sujet
 --- | --- | ---
