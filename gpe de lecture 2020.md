@@ -53,10 +53,12 @@ for a reference.
 
 #exposes
 
-5/2 Victor - triplets
-12/2 William - sl2
-19/2 Thomas - topographie
-     Corentin - descente
-     Vincent  - generalisation
-     Milan - ??
+date | nom | sujet
+--- | --- | ---
+5/2 | Victor | triplets
+12/2| William | sl2
+19/2 | Thomas | topographie
+  *   | Corentin | descente
+  *  | Vincent  | generalisation
+ *   |  Milan | ??
      
