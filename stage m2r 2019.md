@@ -1,6 +1,7 @@
 # Stage M2R
 
-Greg McShane 2019-2020
+Greg McShane 2020-21
+
 
 
 ## Context
@@ -55,3 +56,6 @@ to see why there are no polynomials.
 1. HYPERBOLIC METRICS, MEASURED FOLIATIONS AND PANTS DECOMPOSITIONS FOR NON-ORIENTABLE SURFACES
 **A. PAPADOPOULOS† AND R. C. PENNER** ASIAN J. MATH. c 2016 International Press
 Vol. 20, No. 1, pp. 157–182, January 2016
+
+
+[on the web](https://github.com/macbuse/MATH/edit/master/stage%20m2r%202019.md)
